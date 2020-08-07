@@ -1,6 +1,7 @@
 # Java - Data structures and Algorithms 
 
-#### Stack
+#### Stack (array and linkedlist implementation)
+
 
 - ##### [Stack - array implementation](https://github.com/ivanmmarkovic/Java-Data-Structures-and-Algorithms/tree/master/algorithms/src/main/java/ivanmarkovic/algorithms/stack/arrayimplementation)
 
